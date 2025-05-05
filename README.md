@@ -5,7 +5,7 @@
 ## Seznam miniprojektů:
 
 1. <b>Poznámky </b> [Zadání a postup řešení](#ukol2), [Live náhled](#ukol2), [Kód](#ukol2)    
-2. <b>Hra s hlasováním </b> [Zadání a postup řešení](#ukol2), [Live náhled](#ukol2), [Kód](#ukol2)    
+2. <b>Hra s hlasováním </b> [Zadání a postup řešení](#ukol2), [Live náhled](#ukol2), [Kód](./Hra_hlasovani/)    
 
 <br>
 <br>
